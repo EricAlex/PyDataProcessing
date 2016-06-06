@@ -1,0 +1,1 @@
+首先安装python－2.7.10.msi，然后安装numpy-1.9.2-win32-superpack-python2.7.exe和pyhdf-0.9.0.win32-py2.7.msi，把hdf-t.py放到存有＊.hdf文件的目录下，双击hdf-t.py，会把目录下所有以hdf为扩展名的modis数据转成dq9使用的txt格式。

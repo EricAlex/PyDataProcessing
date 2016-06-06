@@ -1,0 +1,1 @@
+"<FNT name='SimSum' size='"&[Height]&"'>"&[Label]&"</FNT>"
